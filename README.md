@@ -4,7 +4,6 @@ In this project , my objective is to predict flight pricce based on various feat
 ,Total_Stops.I performed all steps from choosing the data to be used till pickling the best model for our data after performing fine-tuning .I used random forest regressor 
 for prediction , and I also used extra tree regressor for feature engineering . 
 
-# Objective 
 
 ## Technique used 
 - Data Cleaning 
