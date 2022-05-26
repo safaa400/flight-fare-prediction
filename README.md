@@ -2,7 +2,7 @@
 
 In this project , my objective is to predict flight price based on various features like Airline,Date_of_Journey,Source,Destination,Route,Dep_Time,Arrival_Time,Duration
 ,Total_Stops.I performed all steps from choosing the data to be used till pickling the best model for our data after performing fine-tuning .I used random forest regressor 
-for prediction , and I also used extra tree regressor for feature engineering . 
+for prediction , and I also used extra trees regressor for feature engineering . 
 
 
 ## Technique used 
