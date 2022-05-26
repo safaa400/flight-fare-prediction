@@ -21,7 +21,7 @@ for prediction , and I also used extra tree regressor for feature engineering .
 ## Model Evaluation methods used 
 - Mean squared error
 - Mean absolute error
-- Roor Mean squared error
+- Root Mean squared error
 
 
 # Guidelines
